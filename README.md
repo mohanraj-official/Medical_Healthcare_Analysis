@@ -1,5 +1,8 @@
-EXCEL CAPSTONE PROJECT - Medical Healthcare Analysis.
+                                    EXCEL CAPSTONE PROJECT - MEDICAL HEALTHCARE ANALYSIS
+
 Here many Details are given in the sheets like
+
+
 1 - Customer Names
 ![Screenshot (59)](https://github.com/user-attachments/assets/76b00f2d-90c1-45b3-b626-55fa97f154a0)
 
