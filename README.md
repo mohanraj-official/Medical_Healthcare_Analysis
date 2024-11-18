@@ -140,7 +140,7 @@ June 2023.
 
 <br>
 
-| ![Screenshot (70)](https://github.com/user-attachments/assets/c391aa77-76bf-4882-bc61-df95c4cd7f46)|
+ ![Screenshot (70)](https://github.com/user-attachments/assets/c391aa77-76bf-4882-bc61-df95c4cd7f46)
 
 In this Excel Series, we can cross all these categories like
 
